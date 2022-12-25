@@ -1,0 +1,16 @@
+{
+  "menu_items": [{
+    "label": "Главная",
+    "value": "home"
+  },{
+    "label": "Обо мне",
+    "value": "about"
+  },{
+    "label": "О курсе",
+    "value": "about-course"
+  },{
+    "label": "Контакты",
+    "value": "contacts"
+  }
+  ]
+}
