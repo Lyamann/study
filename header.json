@@ -1,7 +1,7 @@
 {
   "menu_items": [{
     "label": "Главная",
-    "value": "home"
+    "value": ""
   },{
     "label": "Обо мне",
     "value": "about"
