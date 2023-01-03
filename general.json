@@ -11,6 +11,9 @@
   },{
     "label": "Контакты",
     "value": "contacts"
-  }
-  ]
+  }],
+  "social_links": [{
+    "link": "vl.com",
+    "icon": ""
+  }]
 }
