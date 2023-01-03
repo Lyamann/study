@@ -13,7 +13,10 @@
     "value": "contacts"
   }],
   "social_links": [{
-    "link": "vl.com",
-    "icon": ""
+    "link": "https://t.me/A_lllb",
+    "label": "Telegram"
+  },{
+    "link": "https://instagram.com/askerova_lyaman?igshid=MWI4MTIyMDE=",
+    "label": "Instagram"
   }]
 }
