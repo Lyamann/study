@@ -1,10 +1,18 @@
 {
     "title": "Мои работы",
     "works": [{
-      "title": "title", 
-      "text": "text",
+      "title": "Phomemo- интернет-магазин мини-принтеров", 
+      "text": "Прописание маркетинговой стратегии, упаковка инстаграма, создание сайта на тильде, запуск таргетированной рекламы. <a href='http://phomemokz.tilda.ws/'>Phomemo.kz</a>",
       "images": [
-        "/images/works/work-11.png", 
+        "/images/works/work-11.png",
+        "/images/works/work-12.jpg",
+        "/images/works/work-13.jpg"
+      ]
+    }, {
+      "title": "Phomemo- интернет-магазин мини-принтеров", 
+      "text": "Прописание маркетинговой стратегии, упаковка инстаграма, создание сайта на тильде, запуск таргетированной рекламы. <a href='http://phomemokz.tilda.ws/'>Phomemo.kz</a>",
+      "images": [
+        "/images/works/work-11.png",
         "/images/works/work-12.jpg",
         "/images/works/work-13.jpg"
       ]
