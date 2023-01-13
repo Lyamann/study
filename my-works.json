@@ -1,5 +1,13 @@
 {
     "title": "Мои работы",
-    "works": []
+    "works": [{
+      "title": "title", 
+      "text": "text",
+      "images": [
+        "/images/hero/image.jpg", 
+        "/images/hero/image.jpg",
+        "/images/hero/image.jpg"
+      ]
+    }]
   }
   
