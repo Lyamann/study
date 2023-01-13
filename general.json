@@ -3,11 +3,11 @@
     "label": "Главная",
     "value": "main"
   },{
-    "label": "Обо мне",
-    "value": "about"
+    "label": "Мои навыки",
+    "value": "skills"
   },{
-    "label": "О курсе",
-    "value": "about-course"
+    "label": "Мои работы",
+    "value": "my-works"
   },{
     "label": "Контакты",
     "value": "contacts"
