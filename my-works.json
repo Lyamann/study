@@ -3,27 +3,19 @@
     "works": [{
       "title": "Phomemo- интернет-магазин мини-принтеров", 
       "text": "Прописание маркетинговой стратегии, упаковка инстаграма, создание сайта на тильде, запуск таргетированной рекламы. <br> Сайт <a href='http://phomemokz.tilda.ws/'>Phomemo.kz</a>",
-      "images": [
-        "/images/works/work-1.png"
-      ]
+      "images": "/images/works/work-1.png"
     }, {
       "title": "New Way - проект по переезду в ОАЭ", 
       "text": "Создание маркетинговой стратегии, создание сайта, запуск таргета <br> Сайт: <a href='http://guidewelcome.tilda.ws/'>new-way.kz</a>",
-      "images": [
-        "/images/works/work-21.png"
-      ]
+      "images": "/images/works/work-21.png"
     }, {
       "title": "Ногти моей мечты - салон красоты", 
       "text": "Ведение аккаунта, сторителлинг, прогрев и продажи в сторис, запуск школы по маникюру от салона, привлечение клиентов органический трафик и таргет",
-      "images": [
-        "/images/works/work-31.png"
-      ]
+      "images": "/images/works/work-31.png"
     },{
       "title": "Elie Salon Beauty- салон красоты в Дубае", 
       "text": "Ведение аккаунта инстаграм, создание креатива для таргета, создание лид магнитов, оформление инстаграм",
-      "images": [
-        "/images/works/work-4.png"
-      ]
+      "images": "/images/works/work-4.png"
     }]
   }
   
