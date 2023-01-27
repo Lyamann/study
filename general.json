@@ -1,8 +1,5 @@
 {
   "menu_items": [{
-    "label": "Главная",
-    "value": "main"
-  },{
     "label": "Мои навыки",
     "value": "skills"
   },{
